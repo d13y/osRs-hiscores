@@ -11,7 +11,7 @@ A simple set of scripts to scrape the [OSRS hiscores](https://secure.runescape.c
 - **download.R** - this creates a .xlsx file that contains the hiscores, and the key variables/parameters that were used to generate the hiscores.
 
 
-*Note that a script named `parameters-example.R` has also been created to show an example parameter setup. It will search the top 10,000 killcounts on the [Zulrah hiscores](https://secure.runescape.com/m=hiscore_oldschool/overall?category_type=1&table=54#headerHiscores).
+*Note that a script named `parameters-example.R` has also been created to show an example parameter setup. It will search the top 10,000 killcounts on the [Zulrah hiscores](https://secure.runescape.com/m=hiscore_oldschool/overall?category_type=1&table=54#headerHiscores). The outputs of this example can be found [here](https://docs.google.com/spreadsheets/d/1zNp4QZPCz2oHu_gF26O8zG75HsB-lEtxn1wYoXCiaXY/edit?usp=sharing).
 
 ## Setup
 1. **This project was created in R**. To run it, users will need to either download [R](https://www.r-project.org/) & [RStudio](https://rstudio.com/products/rstudio/download/) and run R locally, OR sign up to [RStudio Cloud](https://rstudio.cloud/) and access R via any supported browser.
