@@ -1,0 +1,7 @@
+*.Rproj
+.Rhistory
+.RData
+.Rproj.user/
+*.xlsx
+*Page*
+
