@@ -72,6 +72,7 @@ Occasionally, the project may run into an error whilst attempting to read a webp
 - **Retry missed pages** - try to search any missed pages again, rather than skip altogether.
 - **Account Filters** - add more account filters to reduce required account searches.
 - **Custom Bot Identification** - create custom functions to identify potential bot accounts for each skill/minigame.
+- **Longitudinal Analysis** - create a time variable that allows accounts to be tracked over time through multiple runs. *This may be tricky due to name changes*.
 
 ## FAQ
 #### How does the iron account filter work?
